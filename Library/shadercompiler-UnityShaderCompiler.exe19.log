@@ -1,11 +1,4 @@
-Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.2f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines'
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.10f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.10f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
-Cmd: compileComputeKernel
-  error: 1 plat 4 at FFTOcean.compute(161): implicit truncation of vector type
-  error: 1 plat 4 at FFTOcean.compute(162): implicit truncation of vector type
-  error: 1 plat 4 at FFTOcean.compute(163): implicit truncation of vector type
-  error: 1 plat 4 at FFTOcean.compute(164): implicit truncation of vector type
-  error: 1 plat 4 at FFTOcean.compute(219): integer modulus may be much slower, try using uints if possible.
-  api=4 insize=6929 outsize=1951 ok=1
 
 Quitting shader compiler process

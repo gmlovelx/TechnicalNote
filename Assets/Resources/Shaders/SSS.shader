@@ -12,6 +12,7 @@
         ZTest Always
         ZWrite Off
         Cull Off
+
         Stencil{
             Ref 5
             Comp Equal

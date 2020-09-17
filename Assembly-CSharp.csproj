@@ -94,6 +94,7 @@
     <None Include="Assets\ThirdParty\Casual RPG Character - 4 Avelyn\readme.txt" />
     <None Include="Assets\Resources\Shaders\Phong.shader" />
     <None Include="Assets\Resources\Shaders\LightProbes.shader" />
+    <None Include="Assets\Resources\Shaders\PBRCommon.cginc" />
     <None Include="Assets\Resources\Shaders\Relief.shader" />
     <None Include="Assets\Resources\Shaders\Gray.compute" />
     <None Include="Assets\Resources\Shaders\NormalMapping.shader" />
